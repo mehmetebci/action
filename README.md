@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/twitter-together/action/issues/16"><img src="assets/logo.png" width="150" alt="twitter together logo" /></a>
 </p>
